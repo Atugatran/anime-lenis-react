@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react'
+import { useEffect } from 'react'
 import Lenis from 'lenis'
 import './App.css'
 import { useGSAP } from '@gsap/react'
